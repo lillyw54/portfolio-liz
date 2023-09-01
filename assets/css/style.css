@@ -1,0 +1,57 @@
+
+    /*header and title functions*/
+header{
+    background-color:darkolivegreen;
+    padding: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+    }
+
+    /*The following allows the page to be centered*/
+body{
+    padding-left: 50px;
+    text-align: center;
+    font-size: medium;
+    }
+
+    /*Column1 and Column2 both affect the "About Me" and "Repository Links", columns*/
+.column, .column2{
+    border-style:solid;
+    border-color:black;
+    float: left;
+    height: 200px;
+    width: 50%;
+    background-color: rgb(155, 108, 67);
+    margin-bottom: 15px;
+    }
+
+    /*footer functions*/
+footer{
+    text-align: center;
+    background-color:darkolivegreen;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    }
+
+    /* "about me" title*/
+h2{
+    font-size: 25px;
+    }
+    /* "repository links" title*/
+h3{
+    font-size: 25px;
+    }
+    /* repository links */
+a:link {
+    font-size: 25px;
+    }
+    /* "about me" paragraph */
+p1{
+    font-size: 18px;
+    }
+    /* "paving the way" footer */
+p2{
+    font-size: 25px;
+    }
