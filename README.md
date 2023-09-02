@@ -10,7 +10,7 @@ In this project I focused on creating a simple landing page for employers to see
 * When it comes to the footer, It was meant to be something encouring yet simple. 
 
     THE HOW:
-  Starting I wanted to create a layout: Header, columns, and footer. To create this in the CSS file I used W3Schools as a guide to have a better under standing in what the layout of each section would be. 
+Starting I wanted to create a layout: Header, columns, and footer. To create this in the CSS file I used W3Schools as a guide to have a better under standing in what the layout of each section would be. 
 Attached is the layout URL:
      https://www.w3schools.com/css/css_website_layout.asp 
 
