@@ -11,13 +11,13 @@ In this project I focused on creating a simple landing page for employers to see
 
     THE HOW:
 
-Starting I wanted to create a layout: Header, columns, and footer. To create this in the CSS file I used W3Schools as a guide to have a better under standing in what the layout of each section would be. 
+Starting I wanted to create a layout: Header, columns, and footer. To create this in the CSS file I used W3Schools as a guide to have a better understanding in what the layout of each section would be. 
 Attached is the layout URL:
     https://www.w3schools.com/css/css_website_layout.asp 
 
-For the same Header, columns, and footer created in HTML I used the following W3Schools as a guide. Not all sections were used, but it gave a better understanding of what I needed, to tie the HTML and CSS code together.
+For the same Header, columns, and footer created; in HTML I used the following W3Schools website as a guide. Not all sections were used, but it gave a better understanding of what I needed, to tie the HTML and CSS code together.
 
-The image of my daughter and I, was added by creating a folder under "images" with the selected image in said folder. After this we will create an "absolute path"  <img src= "/images/lnk.png">
+The image of my daughter and I, was added by creating a folder under "images" with the selected image in said folder. After this an an "absolute path" was created.  <img src= "/images/lnk.png">
 
 Attached are the following layout Url's:
 * header:
@@ -29,4 +29,4 @@ Attached are the following layout Url's:
   
     CONTRIBUTING:
   
-  If you would like to contribute, and add to the portfolio layout, ensure that you're adding a section to the README file, showing what was changed to make it better. 
+  If you would like to contribute, and add to the portfolio layout, ensure that you're adding a section to the README fileas well, showing what was changed to make it better. 
