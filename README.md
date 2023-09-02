@@ -5,7 +5,7 @@ In this project I focused on creating a simple landing page for employers to see
 
 * Each position and color was carefully thought out to engage with the user. Starting with the header: with a quirky saying "finding the puzzle piece together" every software developer goes through the process of breaking the page, to fix it and finding the proper puzzle pieces to create the vision they had. 
 * Followed by a picture of my daughter and I; as an engagment, and personal feel with the user. 
-* I wanted to incorporate in on of my columns an "about me" so the user knows more than just the surface. It's always great for someone to know the work, but it makes it easier when the person has a personality and a reason why they are striving for greatness. 
+* I wanted to incorporate in one of my columns an "about me" so the user knows more than just the surface. It's always great for someone to know the work, but it makes it easier when the person has a personality and a reason why they are striving for greatness. 
 * In the following column named "repository links" I added a working link that will lead you to my repos, this was created as an easy access for those wanting to know more about my work or to even contribute. 
 * When it comes to the footer, It was meant to be something encouring yet simple. 
 
