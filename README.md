@@ -16,7 +16,7 @@ Attached is the layout URL:
 
 For the same Header, columns, and footer created in HTML I used the following W3Schools as a guide. Not all sections were used, but it gave a better understanding of what I needed, to tie the HTML and CSS code together.
 
-The image of my daughter and I, was added by creating a folder under "images" with the selected image in said folder. After this we will create an "absolute path" with the following code: <img src= "/images/lnk.png">
+The image of my daughter and I, was added by creating a folder under "images" with the selected image in said folder. After this we will create an "absolute path"  <img src= "/images/lnk.png">
 
 Attached are the following layout Url's:
 * header:
